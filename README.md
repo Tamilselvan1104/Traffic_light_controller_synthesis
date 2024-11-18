@@ -18,6 +18,7 @@ Synthesis requires three files as follows,
 
 ◦ Verilog/VHDL Files (.v or .vhdl or .vhd)
 
+
 ### Step 2 : Creating an SDC File
 
 •	In your terminal type “gedit input_constraints.sdc” to create an SDC File if you do not have one.
@@ -40,9 +41,14 @@ The Liberty files are present in the library path,
 
 Synthesis RTL Schematic :
 
+![WhatsApp Image 2024-11-18 at 10 25 25_10df0394](https://github.com/user-attachments/assets/e640b52d-b0da-4cb9-8054-e34b449d0e50)
+
 Area report:
+![WhatsApp Image 2024-11-18 at 10 25 26_026055e9](https://github.com/user-attachments/assets/51fbea6d-0643-4270-88dc-d145023a5f5a)
 
 Power Report:
+
+![WhatsApp Image 2024-11-18 at 10 25 26_8a2cc029](https://github.com/user-attachments/assets/1f6f18f7-f0c9-4bea-a160-02907dfcd5cb)
 
 Result:
 
